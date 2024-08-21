@@ -1,4 +1,4 @@
-# Rotary tool fixtures
+# Slotted Mechanical Seven-segment Display Model
 
 This repository contains the CAD source and mesh files for my mechanical seven-segment display model.
 
